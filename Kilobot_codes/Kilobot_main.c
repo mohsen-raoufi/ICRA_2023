@@ -48,7 +48,7 @@ int new_message = 0;
 long double z_col = 0.0; 				// (local) collective mean
 long double z_m = 0;					// posteriori opinion
 long double z_s = 0;					// a priori (measured/sensed)
-int N = 0;								// Number of neighbors (NOTE: Kilobots should ideally have identital IDs)
+int N = 0;								// Number of neighbors (NOTE: Kilobots should ideally have distinct IDs)
 
 double beta = 0.01;						// Memory (self-weight/decaying factor for averaging)
 double g = 0.6;							// 
