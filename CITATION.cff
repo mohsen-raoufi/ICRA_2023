@@ -1,0 +1,8 @@
+@inproceedings{MRaoufi_ICRA23,
+  title={Estimation of continuous environments by robot swarms: Correlated networks and decision-making},
+  author={Raoufi, Mohsen and Romanczuk, Pawel and Hamann, Heiko},
+  booktitle={2023 IEEE International Conference on Robotics and Automation (ICRA 2023)},
+  pages={5486--5492},
+  year={2023},
+  organization={IEEE}
+}
